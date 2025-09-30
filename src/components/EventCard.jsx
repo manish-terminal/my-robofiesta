@@ -40,7 +40,6 @@ export default function EventCard({ event }) {
     <a 
       href={event.checkoutLink} 
       className="block" 
-      target="_blank" 
       rel="noopener noreferrer"
     >
       {/* Added h-full to ensure consistent card height in a grid layout */}
