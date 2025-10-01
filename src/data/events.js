@@ -92,7 +92,7 @@ export const events =[
     "date": "5 November 2025",
     "time": "2:00 pm – 4:00 pm",
     "venue": "1ST FLOOR SEM HALL",
-    "image": "/img/logo.png",
+    "image": "/img/greattechquest.png",
     "checkoutLink": "https://register.robofiesta.in/event-details/great-tech-quest"
   },
   {
@@ -164,7 +164,7 @@ export const events =[
     "date": "13 October 2025",
     "time": "10:00 am – 11:00 am",
     "venue": "LAB 1",
-    "image": "/img/logo.png",
+    "image": "/img/logodesign.png",
     "checkoutLink": "https://register.robofiesta.in/event-details/logo-design"
   }
 ]
