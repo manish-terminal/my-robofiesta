@@ -58,9 +58,9 @@ export function TwitterIcon() {
 
 // Social media links
 const SOCIAL_LINKS = {
-  YOUTUBE: 'https://www.youtube.com/channel/UCoZ_0Esy_kdOT20Ee71z1JQ',
+  YOUTUBE: 'https://youtube.com/@robofiestarvitm',
   INSTAGRAM: 'https://www.instagram.com/robofiesta.rvitm/',
-  GITHUB: 'https://github.com/biswaisop',
+  GITHUB: 'https://youtube.com/@robofiestarvitm',
   TWITTER: 'https://twitter.com/robofiesta_'
 };
 
