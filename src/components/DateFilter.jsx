@@ -30,7 +30,7 @@ export default function DateFilter({ events, onDateChange }) {
           selectedDate === 'all' ? activeButtonClass : "text-white/80"
         }`}
       >
-        All Days
+        All Events
       </button>
       {uniqueDates.map((date) => (
         <button
