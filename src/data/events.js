@@ -100,7 +100,7 @@ export const events =[
     "date": "5 November 2025",
     "time": "2:00 pm – 4:00 pm",
     "venue": "6TH FLOOR SEM HALL",
-    "image": "/img/logo.png",
+    "image": "/img/pitchinthebox.png",
     "checkoutLink": "https://register.robofiesta.in/event-details/pitch-in-the-box"
   },
   {
